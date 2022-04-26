@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "ac5c831d904721b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6d36728e2cd9708",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Analysis/index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "429e20110af4ad2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3997dc823c59122d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4492c77e0b7325f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "177b1667e00b3d19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ad560ee84abf67c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bca22b8b0895cce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5fc30d7db14c2a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Analysis/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b6d36728e2cd9708",
+  "lastOpenFiles": [
+    "Analysis/index.md",
+    "Analysis/recursion.md"
+  ]
+}

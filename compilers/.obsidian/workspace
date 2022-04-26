@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "dd1c17e64ee56427",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dd6db32cf642d99",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25d23b40bd0ed558",
+    "type": "split",
+    "children": [
+      {
+        "id": "932b03b8569f9f6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9de894553d11a646",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3095cc632f5e156f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e8f3fea610b6bce4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f79ea85b1595592f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32311407a62e0a50",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6dd6db32cf642d99",
+  "lastOpenFiles": [
+    "index.md",
+    "自下而上分析法/PDA.md",
+    "自下而上分析法/算符優先文法.md",
+    "自下而上分析法/分析樹.md",
+    "自下而上分析法/images/Pasted image 20220321134845.png",
+    "自下而上分析法/images/Pasted image 20220321115146.png",
+    "自下而上分析法/images/Pasted image 20220321115053.png",
+    "自下而上分析法/images/pda.png",
+    "自下而上分析法.md"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "603ab10a05d14718",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bc46ce9502ee8d0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Amdahl定律.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a477abc0d1362e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "56af9e8c60590fcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f25751271fd5642",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6a08b8787095e102",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1e8f79b219de18e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dda67c43ab28aa57",
+    "type": "split",
+    "children": [
+      {
+        "id": "511cb841be7305cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faca853c9e0abee2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Amdahl定律.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3bc46ce9502ee8d0",
+  "lastOpenFiles": [
+    "Amdahl定律.md"
+  ]
+}
