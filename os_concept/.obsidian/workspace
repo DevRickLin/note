@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "ac5c831d904721b8",
+    "id": "dc59d3fb1424b888",
     "type": "split",
     "children": [
       {
-        "id": "b6d36728e2cd9708",
+        "id": "486120fc9a5316b6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/index.md",
+            "file": "rCore/ch2 应用程序 （邓式鱼-批处理系统）.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "429e20110af4ad2f",
+    "id": "82ffc8c90559dc39",
     "type": "split",
     "children": [
       {
-        "id": "3997dc823c59122d",
+        "id": "788e11f71463b415",
         "type": "tabs",
         "children": [
           {
-            "id": "4492c77e0b7325f5",
+            "id": "f16ab78f73a22ebb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "177b1667e00b3d19",
+            "id": "b3894deeda51d203",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,20 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "ad560ee84abf67c6",
+    "id": "b89bbb34acc44c82",
     "type": "split",
     "children": [
       {
-        "id": "1bca22b8b0895cce",
+        "id": "97d082b3344ee4ce",
         "type": "tabs",
         "children": [
           {
-            "id": "f5fc30d7db14c2a6",
+            "id": "74c68aabec511aa8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/index.md",
+                "file": "rCore/ch2 应用程序 （邓式鱼-批处理系统）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,13 +87,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b6d36728e2cd9708",
+  "active": "486120fc9a5316b6",
   "lastOpenFiles": [
-    "Analysis/index.md",
-    "Brute Force/index.md",
-    "index.md",
-    "assets/img/BigO.png",
-    "assets/img/BigO_Omega_Theta.png",
-    "Analysis/recursion.md"
+    "rCore/ch2 应用程序 （邓式鱼-批处理系统）.md",
+    "rCore/ch1.md",
+    "rCore/ref.md"
   ]
 }
