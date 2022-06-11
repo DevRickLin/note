@@ -7,8 +7,12 @@
         "id": "20669b8ca65ccd22",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "ch2世界的物质性与发展规律/index.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ch2世界的物质性与发展规律/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +88,14 @@
     "collapsed": true
   },
   "active": "20669b8ca65ccd22",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "ch2世界的物质性与发展规律/index.md",
+    "ch1导论/index.md",
+    "未命名.md",
+    "index.md",
+    "ch1导论/马克思主义基本原理.md",
+    "ch1导论/什么是马克思主义？什么是马克思主义原理？.md",
+    "ch1导论/马克思主义的特征.md",
+    "ch1导论/马克思主义的标识性著作.md"
+  ]
 }
