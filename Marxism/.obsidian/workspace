@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "20669b8ca65ccd22",
+        "id": "3e21582be89c060f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ch2世界的物质性与发展规律/index.md",
+            "file": "ch2实践与认识及其发展规律/index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ch2世界的物质性与发展规律/index.md",
+                "file": "ch2实践与认识及其发展规律/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "20669b8ca65ccd22",
+  "active": "3e21582be89c060f",
   "lastOpenFiles": [
-    "ch2世界的物质性与发展规律/index.md",
-    "ch1导论/index.md",
-    "未命名.md",
+    "ch2实践与认识及其发展规律/index.md",
+    "ch2实践与认识及其发展规律/真理与价值/index.md",
+    "ch2实践与认识及其发展规律/真理与价值/价值.md",
+    "ch2实践与认识及其发展规律/真理与价值/真理与谬误的对立统一.md",
     "index.md",
-    "ch1导论/马克思主义基本原理.md",
-    "ch1导论/什么是马克思主义？什么是马克思主义原理？.md",
-    "ch1导论/马克思主义的特征.md",
-    "ch1导论/马克思主义的标识性著作.md"
+    "ch2实践与认识及其发展规律/实践.md",
+    "ch2实践与认识及其发展规律/认识.md",
+    "ch2实践与认识及其发展规律/真理与价值/真理的客观性.md",
+    "ch1世界的物质性与发展规律/客观实在性.md",
+    "ch1世界的物质性与发展规律/index.md"
   ]
 }
