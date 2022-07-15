@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "rCore/ch2 应用程序 （邓式鱼-批处理系统）.md",
+            "file": "index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rCore/ch2 应用程序 （邓式鱼-批处理系统）.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "486120fc9a5316b6",
   "lastOpenFiles": [
+    "index.md",
     "rCore/ch2 应用程序 （邓式鱼-批处理系统）.md",
     "rCore/ch1.md",
     "rCore/ref.md"

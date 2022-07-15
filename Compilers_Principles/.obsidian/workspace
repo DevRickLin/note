@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6dd6db32cf642d99",
+        "id": "07feda3c93dea006",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -87,16 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6dd6db32cf642d99",
+  "active": "07feda3c93dea006",
   "lastOpenFiles": [
     "index.md",
-    "自下而上分析法/PDA.md",
-    "自下而上分析法/算符優先文法.md",
-    "自下而上分析法/分析樹.md",
-    "自下而上分析法/images/Pasted image 20220321134845.png",
-    "自下而上分析法/images/Pasted image 20220321115146.png",
-    "自下而上分析法/images/Pasted image 20220321115053.png",
-    "自下而上分析法/images/pda.png",
-    "自下而上分析法.md"
+    "词法分析/index.md",
+    "语法分析/自下而上分析法/分析樹.md",
+    "语法分析/自下而上分析法/算符優先文法.md",
+    "语法分析/自下而上分析法/PDA.md",
+    "形式语言/index.md",
+    "assets/img/Pasted image 20220623130725.png",
+    "assets/img/Pasted image 20220321115053.png",
+    "assets/img/Pasted image 20220623111244.png",
+    "assets/img/Pasted image 20220321134845.png"
   ]
 }
